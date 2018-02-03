@@ -1,0 +1,16 @@
+CST 356 Lab 2
+
+Exercise 1
+	5.
+		d. The Razor syntax creates the text from a Datetime object.
+		e. Web Server, when the view is created.
+Exercise 2
+	6. they are called inline expressions. the model is defined with @model yourModel.
+	8. It's the same because it is set in the shared layout file that is used to encapsulate all views.
+	9. It tries to hit the index action, but there is no view to return that matches index.
+
+Exercise 4
+	1. You get a user in your database that only has info for the years in school field.
+	2. You get an error message saying that the field is required.
+	
+
